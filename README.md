@@ -11,3 +11,5 @@ We have employed a total of five models to predict the sentiments of tweets:
 - VADER
 - Flair
 - TextBlob
+
+## How To Run:
