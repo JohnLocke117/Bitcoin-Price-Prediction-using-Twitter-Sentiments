@@ -13,4 +13,3 @@ We have employed a total of five models to predict the sentiments of tweets:
 - TextBlob
 
 
-<p>The project aims to leverage sentiment analysis of Twitter data to predict Bitcoin's price movements. By analyzing the sentiment expressed in tweets related to Bitcoin, we aim to uncover the latest collective sentiment of the cryptocurrency community and assess its impact on the market.</p>
